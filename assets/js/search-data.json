@@ -2,21 +2,21 @@
   
     
         "post0": {
-            "title": "Python Jupyter Notebook.",
-            "content": "This is a Python Jupter Notebook. . import os GREEN = &quot; u001b[32m&quot; BROWN = &quot; 033[38;5;94m &quot; def christmas_tree(): for i in range(1, 11): # leaves row = &quot;* &quot; * i print(GREEN + &quot; &quot; * (10 - i) + row) for i in range(3): # stump print(BROWN + &quot; &quot; * 8 + &quot;***&quot;) christmas_tree() . * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *** *** *** .",
-            "url": "https://tonyhieu.github.io/first-fastpages/jupyter/2022/07/28/python.html",
-            "relUrl": "/jupyter/2022/07/28/python.html",
-            "date": " • Jul 28, 2022"
+            "title": "Java Jupyter Notebook.",
+            "content": "This is a Java Jupyter Notebook. . public class HelloWorld { public static void main(String[] args) { System.out.println(&quot;Hello!&quot;); } } HelloWorld.main(null); . Hello! .",
+            "url": "https://tonyhieu.github.io/first-fastpages/jupyter/2022/08/01/new-java.html",
+            "relUrl": "/jupyter/2022/08/01/new-java.html",
+            "date": " • Aug 1, 2022"
         }
         
     
   
     
         ,"post1": {
-            "title": "Java Jupyter Notebook.",
-            "content": "This is a Java Jupyter Notebook. . %java System.out.println(&quot;Hello!&quot;); .",
-            "url": "https://tonyhieu.github.io/first-fastpages/jupyter/2022/07/28/java.html",
-            "relUrl": "/jupyter/2022/07/28/java.html",
+            "title": "Python Jupyter Notebook.",
+            "content": "This is a Python Jupter Notebook. . import os GREEN = &quot; u001b[32m&quot; BROWN = &quot; 033[38;5;94m &quot; def christmas_tree(): for i in range(1, 11): # leaves row = &quot;* &quot; * i print(GREEN + &quot; &quot; * (10 - i) + row) for i in range(3): # stump print(BROWN + &quot; &quot; * 8 + &quot;***&quot;) christmas_tree() . * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *** *** *** .",
+            "url": "https://tonyhieu.github.io/first-fastpages/jupyter/2022/07/28/python.html",
+            "relUrl": "/jupyter/2022/07/28/python.html",
             "date": " • Jul 28, 2022"
         }
         
